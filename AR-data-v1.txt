@@ -1333,7 +1333,7 @@ id;label;text
 1332;NEG;Malo no es térmico no cede como tal.
 1333;NEU;Normal.
 1334;NEG;Compre 2 el de color negro me vino con un agujero al ponérmelo me di cuenta
-1335;NEG;No es tan buena; como anteriores que compre; cambio mucho la calidad.
+1335;NEG;No es tan buena, como anteriores que compre, cambio mucho la calidad.
 1336;NEG;De térmica no tienen nada , son una remera manga larga.
 1337;NEU;Lo único que las mangas quedan cortas. Lo demás todo ok.
 1338;NEG;Las mangas son cortas en relación al cuerpo y no queda ajustado al cuerpo por lo q se suben.
